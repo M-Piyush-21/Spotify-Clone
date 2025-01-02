@@ -3,11 +3,13 @@
 **Spyfy** is a feature-rich music streaming platform built using the **MERN stack**. The project consists of three main components: a client application for users, an admin panel for content management, and a backend server.
 
 ---
-
-## 📁 Project Overview
-
+## User Pannel 
 ![image alt](https://github.com/M-Piyush-21/Spotify-Clone/blob/5d38e2296848b2bc70c4f9b57f0672cc961a3a49/Screenshot-website/Screenshot%202025-01-02%20at%201.10.54%E2%80%AFPM.png)
 
+##Admin Pannel 
+![image alt](https://github.com/M-Piyush-21/Spotify-Clone/blob/9e7fcbcb9e714aa4d9bfc75ecfca3d0387fea663/Screenshot-website/Screenshot%202025-01-02%20at%201.11.14%E2%80%AFPM.png)
+
+## 📁 Project Overview
 
 The project is organized into the following structure:
 ``` 
