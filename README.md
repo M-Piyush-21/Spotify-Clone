@@ -5,7 +5,8 @@
 ---
 
 ## 📁 Project Overview
-https://github.com/M-Piyush-21/Spotify-Clone/blob/5d38e2296848b2bc70c4f9b57f0672cc961a3a49/Screenshot-website/Screenshot%202025-01-02%20at%201.10.54%E2%80%AFPM.png
+
+![image alt](https://github.com/M-Piyush-21/Spotify-Clone/blob/5d38e2296848b2bc70c4f9b57f0672cc961a3a49/Screenshot-website/Screenshot%202025-01-02%20at%201.10.54%E2%80%AFPM.png)
 
 
 The project is organized into the following structure:
